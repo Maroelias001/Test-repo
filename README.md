@@ -1,2 +1,20 @@
 # Test-repo
 Test repo 1
+# Test-repo
+
+A lightweight sandbox repository used for testing integration workflows and activity tracking tools.
+
+## Purpose
+
+This repo exists to simulate realistic development activity — commits, documentation updates, and small iterative changes — for testing how external tools consume and summarize GitHub activity data.
+
+## Structure
+
+Currently minimal by design. Future additions may include:
+- Sample configuration files
+- Basic scripts for testing webhook/activity triggers
+- Documentation on how this repo is used in the broader testing setup
+
+## Notes
+
+Content here is intentionally lightweight and subject to frequent, small changes as part of ongoing testing.
