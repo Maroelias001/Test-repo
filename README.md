@@ -6,7 +6,7 @@ A lightweight sandbox repository used for testing integration workflows and acti
 
 ## Purpose
 
-This repo exists to simulate realistic development activity — commits, documentation updates, and small iterative changes — for testing how external tools consume and summarize GitHub activity data.
+This repo exists to simulate realistic development activity — commits, documentation updates, and small iterative changes — for testing how external tools consume and summarize GitHub activity data. Just some webhook testing here and there. You know the drill AII
 
 ## Structure
 
